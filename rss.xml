@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[winterchord-sandbox]]></title>
+        <description><![CDATA[winterchord-sandbox]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 Nov 2015 07:18:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OSGI NoClassDefFoundError with Arquillian and JBoss AS7]]></title>
+            <description><![CDATA[<article><h1>OSGI NoClassDefFoundError with Arquillian and JBoss AS7</h1><p>You need to override the JBoss JMX invoker with the Arquillian version:</p><img src="http://brian.rarevisions.net/images/site-logo.png"></article>]]></description>
+            <link>http://brian.rarevisions.net/osgi-noclassdeffounderror-with-arquillian-and-jboss-as7/</link>
+            <guid isPermaLink="false">7a7c7dc6-2812-4300-8607-94db4467df72</guid>
+            <pubDate>Sat, 07 Nov 2015 07:18:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
